@@ -2,5 +2,5 @@
 **testing testing**
 _testing italics_
 
-## Secrion 2
+## Section 2
 
